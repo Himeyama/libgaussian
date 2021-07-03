@@ -1,3 +1,9 @@
+/*
+ *  (c) 2021 Murata Mitsuharu
+ *  Licensed under the MIT License.
+ */
+
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>

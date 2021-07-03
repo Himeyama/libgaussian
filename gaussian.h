@@ -1,3 +1,9 @@
+/*
+ *  (c) 2021 Murata Mitsuharu
+ *  Licensed under the MIT License.
+ */
+
+
 #ifndef GAUSSIAN_H
 #define GAUSSIAN_H
 
